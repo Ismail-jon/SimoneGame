@@ -16,8 +16,7 @@ To play the game locally on your machine:
 1. Clone this repository:
 bash
 Copy code
-```
-BASH
+```Bash
 git clone https://github.com/your-username/simon-game.git
 ```
 2. Open the index.html file in your web browser to start playing.
