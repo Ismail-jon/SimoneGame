@@ -1,7 +1,7 @@
 # SimonGame
-This is a fun project I built for fun! It's a classic Simon Game built using JavaScript, HTML, and CSS. In this game, the player must follow the sequence of button presses and repeat it correctly. The game gets more challenging as the sequence grows longer.
+It's a classic Simon Game built using JavaScript, HTML, and CSS. In this game, the player must follow the sequence of button presses and repeat it correctly. The game gets more challenging as the sequence grows longer.
 
-I wrote the JavaScript part of the game, and the project was taken from the Udemy course "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3, and DApps.".
+I wrote the JavaScript part of the game, and the HTML and CSS parts was taken from the Udemy course "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3, and DApps.".
 
 🕹️ How to Play
 When you press any key, the game will start.
