@@ -23,6 +23,6 @@ git clone https://github.com/your-username/simon-game.git
 2. Open the index.html file in your web browser to start playing.
 
 🧠 Technologies Used
-HTML: Markup for the structure of the game.
-CSS: Styling for the user interface.
-JavaScript: Logic for the game and button interactions (written by me).
+- HTML: Markup for the structure of the game.
+- CSS: Styling for the user interface.
+- JavaScript: Logic for the game and button interactions (written by me).
