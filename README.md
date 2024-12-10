@@ -17,7 +17,7 @@ To play the game locally on your machine:
 bash
 Copy code
 ```Bash
-git clone https://github.com/your-username/simon-game.git
+git clone https://github.com/Ismail-jon/SimoneGame
 ```
 2. Open the index.html file in your web browser to start playing.
 
