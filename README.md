@@ -21,6 +21,9 @@ git clone https://github.com/Ismail-jon/SimoneGame
 ```
 2. Open the index.html file in your web browser to start playing.
 
+## Or you can
+[Just visit](https://ismail-jon.github.io/SimoneGame/index.html)
+
 🧠 Technologies Used
 - HTML: Markup for the structure of the game.
 - CSS: Styling for the user interface.
