@@ -21,7 +21,7 @@ git clone https://github.com/Ismail-jon/SimoneGame
 ```
 2. Open the index.html file in your web browser to start playing.
 
-## Or you can
+- Or you can
 [Just visit](https://ismail-jon.github.io/SimoneGame/index.html)
 
 🧠 Technologies Used
